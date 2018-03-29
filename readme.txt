@@ -9,4 +9,12 @@ do it again!
 
 Learning git branch.
 Because it's just about how to change the pointer.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+It's very fast.
+
+Creating a new branch is quick AND simple.
+=======
+It's very fast.
+
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
