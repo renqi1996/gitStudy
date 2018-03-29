@@ -9,4 +9,4 @@ do it again!
 
 Learning git branch.
 Because it's just about how to change the pointer.
-It's very fast.
+Creating a new branch is quick & simple.
