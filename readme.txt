@@ -6,3 +6,7 @@ let's make something different!
 
 do it again!
 16:27 29/3//2018
+
+Learning git branch.
+Because it's just about how to change the pointer.
+It's very fast.
